@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/RecipeApp/static/css/main.a2036157.chunk.css",
-    "main.js": "/RecipeApp/static/js/main.dadb142a.chunk.js",
-    "main.js.map": "/RecipeApp/static/js/main.dadb142a.chunk.js.map",
+    "main.js": "/RecipeApp/static/js/main.e7253cf4.chunk.js",
+    "main.js.map": "/RecipeApp/static/js/main.e7253cf4.chunk.js.map",
     "runtime-main.js": "/RecipeApp/static/js/runtime-main.f85daaff.js",
     "runtime-main.js.map": "/RecipeApp/static/js/runtime-main.f85daaff.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/RecipeApp/static/css/2.4c97ca4f.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.c17ff177.chunk.js",
     "static/css/main.a2036157.chunk.css",
-    "static/js/main.dadb142a.chunk.js"
+    "static/js/main.e7253cf4.chunk.js"
   ]
 }
